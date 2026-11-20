@@ -78,3 +78,4 @@ to LLM-powered agents that solve real problems.
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:phamdinhanhphuong@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-phamdinhanhphuong--ship--it-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/phamdinhanhphuong-ship-it)
+[![GitLab](https://img.shields.io/badge/GitLab-phamdinhanhphuong-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/phamdinhanhphuong)
